@@ -1,18 +1,24 @@
 [submodule "pluginHost"]
 	path = pluginHost
 	url = https://github.com/ComputerLab1-2564/pluginHost
+	ignore = dirty
 [submodule "pluginInterface"]
 	path = pluginInterface
 	url = https://github.com/ComputerLab1-2564/pluginInterface
+	ignore = dirty
 [submodule "plugin1"]
 	path = plugin1
 	url = https://github.com/ComputerLab1-2564/plugin1
+	ignore = dirty
 [submodule "plugin2"]
 	path = plugin2
 	url = https://github.com/ComputerLab1-2564/plugin2
+	ignore = dirty
 [submodule "plugin3"]
 	path = plugin3
 	url = https://github.com/ComputerLab1-2564/plugin3
+	ignore = dirty
 [submodule "plugin4"]
 	path = plugin4
 	url = https://github.com/ComputerLab1-2564/plugin4
+	ignore = dirty
