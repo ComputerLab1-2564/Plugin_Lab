@@ -1,0 +1,18 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/ComputerLab1-2564/pluginHost
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/ComputerLab1-2564/pluginInterface
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/ComputerLab1-2564/plugin1
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/ComputerLab1-2564/plugin2
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/ComputerLab1-2564/plugin3
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/ComputerLab1-2564/plugin4
