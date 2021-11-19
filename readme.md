@@ -83,6 +83,10 @@ Plugin ต่างๆ จะมีรูปแบบเป็นไฟล์ dl
 ![image](https://user-images.githubusercontent.com/567256/142585444-d13d45da-0da6-4356-87b1-9f087b8869b0.png)
 
 
+|No| รายการที่ต้องทำ |
+|--|--------------|
+|1 | คลิกขวาที่โปรเจค Host  |
+|2 | เลือก Set as Startup Project|
 
 
 # Happy developing... #
